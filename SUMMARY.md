@@ -8,3 +8,7 @@
 
 * [Feature Engineering](preprocessing/feature-engineering.md)
 
+## Learning
+
+* [Curriculum learning](learning/curriculum-learning.md)
+
