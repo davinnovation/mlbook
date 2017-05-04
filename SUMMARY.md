@@ -12,3 +12,7 @@
 
 * [Curriculum learning](learning/curriculum-learning.md)
 
+## Generation Model
+
+* [Rnn Generation](generation-model/rnn-generation.md)
+
