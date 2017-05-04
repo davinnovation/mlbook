@@ -1,6 +1,6 @@
 # RNN Generation
 
-### 쉬운 데이터부터 학습시킴
+### RNN을 이용한 Generation
 
 ### 예시
 
