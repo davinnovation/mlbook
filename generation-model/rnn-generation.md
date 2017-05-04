@@ -1,6 +1,4 @@
-https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf
-
-# Curriculum learning
+# RNN Generation
 
 ### 쉬운 데이터부터 학습시킴
 
