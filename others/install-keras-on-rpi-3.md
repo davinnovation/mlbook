@@ -41,7 +41,7 @@ conda install numpy
 conda install scipy
 ```
 
-5 install tensorflow
+5 install tensorflow : [https://github.com/samjabrahams/tensorflow-on-raspberry-pi]
 
 
 ```
