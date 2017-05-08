@@ -67,6 +67,7 @@ pip install keras
 change backend `theano` to `tensorflow` at `~/.keras/keras.json` 
 
 8 test
-open python.
+
+open python
 import keras
 nailed it
