@@ -24,4 +24,10 @@ conda create --name ml_py34 python=3.4
 
 
 
-3 change
+3 change python env on terminal
+
+
+```
+source activate ml_py34
+```
+
