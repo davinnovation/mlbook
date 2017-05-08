@@ -6,9 +6,9 @@
 
 
 ```
-wget http://repo.continuum.io/miniconda/Miniconda-3.5.5-Linux-armv6l.sh
-md5sum Miniconda-3.5.5-Linux-armv6l.sh
-/bin/bash Miniconda-3.5.5-Linux-armv6l.sh
+wget http://repo.continuum.io/miniconda/Miniconda3-latest-Linux-armv7l.sh
+sudo md5sum Miniconda3-latest-Linux-armv7l.sh
+sudo /bin/bash Miniconda3-latest-Linux-armv7l.sh
 ```
 
 
