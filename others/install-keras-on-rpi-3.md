@@ -17,4 +17,11 @@ sudo vim /home/pi/.bashrc
 2. Make conda env
 : [https://conda.io/docs/using/envs.html#create-an-environment]
 
+
+```
+conda create --name ml_py34 python=3.4
+```
+
+
+
 3. change
