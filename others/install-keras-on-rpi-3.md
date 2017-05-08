@@ -54,7 +54,7 @@ sudo pip uninstall mock
 sudo pip install mock
 ```
 
-6. install keras : [http://www.pyimagesearch.com/2016/11/14/installing-keras-with-tensorflow-backend/]
+6 install keras : [http://www.pyimagesearch.com/2016/11/14/installing-keras-with-tensorflow-backend/]
 
 
 ```
@@ -62,3 +62,4 @@ pip install keras
 ```
 
 
+7 change keras backend
