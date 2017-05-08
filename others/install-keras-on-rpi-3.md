@@ -11,7 +11,8 @@ sudo /bin/bash Miniconda3-latest-Linux-armv7l.sh
 
 sudo vim /home/pi/.bashrc
 ```
-
+ change `/root/miniconda3` to `/home/pi/miniconda3` on `.bashrc`
+ add `export PATH="/home/pi/miniconda3/bin:$PATH"` on `.bashrc`
 
 2. Make conda env
 : [https://conda.io/docs/using/envs.html#create-an-environment]
