@@ -34,3 +34,19 @@ source activate ml_py34
 ```
 
 4 install requirement packages
+
+
+```
+conda install numpy
+conda install scipy
+```
+
+5 install tensorflow
+
+
+```
+wget https://github.com/samjabrahams/tensorflow-on-raspberry-pi/releases/download/v1.1.0/tensorflow-1.1.0-cp34-cp34m-linux_armv7l.whl
+sudo pip install tensorflow-1.1.0-cp34-cp34m-linux_armv7l.whl
+```
+
+
