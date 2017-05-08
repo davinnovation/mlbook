@@ -37,8 +37,10 @@ source activate ml_py34
 
 
 ```
-conda install numpy
-conda install scipy
+pip install numpy
+pip install scipy ( if not works conda install )
+pip install pillow
+pip install h5py
 ```
 
 5 install tensorflow : [https://github.com/samjabrahams/tensorflow-on-raspberry-pi]
@@ -50,6 +52,13 @@ sudo pip install tensorflow-1.1.0-cp34-cp34m-linux_armv7l.whl
 
 sudo pip uninstall mock
 sudo pip install mock
+```
+
+6. install keras : [http://www.pyimagesearch.com/2016/11/14/installing-keras-with-tensorflow-backend/]
+
+
+```
+pip install keras
 ```
 
 
