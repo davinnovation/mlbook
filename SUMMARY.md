@@ -16,3 +16,7 @@
 
 * [Rnn Generation](generation-model/rnn-generation.md)
 
+## Others
+
+* [Install Keras on RPI 3](others/install-keras-on-rpi-3.md)
+
