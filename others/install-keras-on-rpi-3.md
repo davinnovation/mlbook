@@ -31,3 +31,4 @@ conda create --name ml_py34 python=3.4
 source activate ml_py34
 ```
 
+4 install requirement packages
