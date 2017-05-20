@@ -35,6 +35,7 @@ Face Localization에서 Gray Scale 이미지의 Colorization 이후 Confidence�
 ### 레퍼런스
 
 * 연세대학교 전기전자공학부 컴퓨터비전특론 - 함범석
+* http://ourcstory.tistory.com/144
 
 
 
