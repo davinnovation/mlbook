@@ -11,6 +11,12 @@
 
 ### 예시
 
+#### Transformation
+
+
+
+#### Creation
+
 Face Localization에서 Gray Scale 이미지의 Colorization 이후 Confidence가 높아진 것을 확인 가능.  
 \( 참고 : Classification - labeling 에서는 오히려 성능 감소 \)
 
