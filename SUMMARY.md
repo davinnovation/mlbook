@@ -10,6 +10,7 @@
 
 ## Learning
 
+* [One Shot Learning](learning/one-shot-learning.md)
 * [Curriculum learning](learning/curriculum-learning.md)
 
 ## Generation Model
