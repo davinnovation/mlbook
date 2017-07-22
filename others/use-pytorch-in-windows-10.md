@@ -35,4 +35,8 @@ conda create --name ml_py36 python=3.6
 source activate ml_py36
 ```
 
-5 
+5 Install Pytorch
+
+```
+conda install pytorch torchvision -c soumith
+```
