@@ -40,3 +40,8 @@ source activate ml_py36
 ```
 conda install pytorch torchvision -c soumith
 ```
+
+6 test
+open python
+import torch
+nailed it
