@@ -16,5 +16,9 @@ read above url!
 2 Install Anaconda on Bash on Ubuntu on Windows
 
 ```
+wget http://repo.continuum.io/archive/Anaconda3-4.4.0-Linux-x86_64.sh
+
+bash Anaconda3-4.4.0-Linux-x86_64.sh
 
 ```
+
