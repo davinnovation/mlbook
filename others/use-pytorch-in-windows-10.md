@@ -25,3 +25,15 @@ bash Anaconda3-4.4.0-Linux-x86_64.sh
 add `export PATH="/home/{username}/anaconda3/bin:$PATH"` on `.bashrc`
 
 3 Make conda env
+```
+conda create --name ml_py36 python=3.6
+```
+
+4 Change python env on terminal
+
+```
+source activate ml_py36
+```
+
+
+
