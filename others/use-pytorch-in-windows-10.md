@@ -22,3 +22,6 @@ bash Anaconda3-4.4.0-Linux-x86_64.sh
 
 ```
 
+add `export PATH="/home/{username}/anaconda3/bin:$PATH"` on `.bashrc`
+
+3 Make conda env
