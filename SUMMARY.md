@@ -20,4 +20,5 @@
 ## Others
 
 * [Install Keras on RPI 3](others/install-keras-on-rpi-3.md)
+* [Use Pytorch in Windows 10](others/use-pytorch-in-windows-10.md)
 
