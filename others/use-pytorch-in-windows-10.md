@@ -8,7 +8,13 @@ with Bash on Ubuntu on Windows :)
     - Nice PC
     
 
-1 Install Bash on Ubuntu [https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/]
+1 Install Bash on Ubuntu : 
+[https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/]
 
-read aboce 
+read above url!
 
+2 Install Anaconda on Bash on Ubuntu on Windows
+
+```
+
+```
